@@ -1,7 +1,7 @@
 <h1 align="center">Data Intelligence with Databricks on AWS</h1>
-<h3 align="center">Introduction to Databricks' data lakehouse platform, its integration with AWS, and how to leverage Databricks for data engineering, data science, and SQL-based analytics.
+<h3 align="left">Introduction to Databricks' data lakehouse platform, its integration with AWS, and how to leverage Databricks for data engineering, data science, and SQL-based analytics.
 
-h3>
+
 
 
 
