@@ -7,5 +7,5 @@
 
 
 <p align="left">
-This repository gives the overview of how Ml,Data engineer,Data Visualisation work together for extraction of data and use MLOps to draw insights and powerbi to visualse it.
+This repository gives the an overview of how Ml,Data engineering,Data Visualisation work together for extraction of data and use MLOps to draw insights and powerbi to visualse it.
 </p>
